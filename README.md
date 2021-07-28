@@ -1,5 +1,3 @@
-# guided-pix2pixplus
-
 Guided-Pix2Pix+
 ===============
 
